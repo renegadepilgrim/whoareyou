@@ -1,0 +1,58 @@
+.header {
+  background-image: url("../img/banner.jpg");
+  height: 400px;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+
+.header h1 {
+  padding-top: 150px;
+  font-size: 6em;
+  color: white;
+}
+
+#result {
+  max-height: auto;
+  width: 500px;
+}
+
+.ross {
+  background-image: url("../img/ross.jpg");
+  background-size: cover;
+  width: 500px;
+  height: 500px;
+}
+
+.rachel {
+  background-image: url("../img/rachel.jpg");
+  background-size: cover;
+  max-width: 500px;
+  height: 500px;
+}
+.pheebs {
+  background-image: url("../img/pheebs.jpg");
+  background-size: cover;
+  max-width: 500px;
+  height: 500px;
+}
+
+.monica {
+  background-image: url("../img/monica.png");
+  background-size: cover;
+  max-width: 500px;
+  height: 500px;
+}
+
+.joey {
+  background-image: url("../img/joey.jpg");
+  background-size: cover;
+  max-width: 500px;
+  height: 500px;
+}
+
+.chandler {
+  background-image: url("../img/chandler.jpg");
+  background-size: cover;
+  max-width: 500px;
+  height: 500px;
+}
